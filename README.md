@@ -1,0 +1,1 @@
+# Following-is-the-given-numpy-array-return-array-of-odd-rows-and-even-columns-import-numpy
